@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**glauciabierwagen/glauciabierwagen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on education, as a teacher of Math, Portuguese and Digital Literacy in Brazilian elementary schools for almost fourteen years. I learned a lot in this profession. I majored in Pedagogy, ICT and master in Education. 
 - 🌱 I have studied how to be a Front End Developer. I’m currently learning programming, specifically CSS, HTML, JavaScript...and so on...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 I enjoy to spend my free time with swimming, reading, watching series and movies, and cats.
 - ⚡ Fun fact: ...
--->
