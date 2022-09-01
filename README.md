@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with career transition. A big challenge for me!
 - 💬 Ask me about education, movies and food. 
 - 📫 How to reach me: galsilv@alumuni.usp.br.
-- 😄 I enjoy to spend my free time with swimming, reading, watching series and movies, and cats.
+- 😄 I enjoy spending my free time swimmming, reading, watching series and movies, and cats.
